@@ -4,7 +4,7 @@ If you are looking to help or be part of the open source community or can not fi
 This repo was purely created to help us all come together in one place to power the open source community to grow even more. 
 
 ## Suggesting new package ideas
-This repo is open to all programming languages please just tag the language you want the package to be in within your PR. 
+This repo is open to all programming languages please just tag the language you want the package to be in within your issue template. 
 
 ### How to suggest a package idea
 1)	Open a new issue
