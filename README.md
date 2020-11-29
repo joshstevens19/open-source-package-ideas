@@ -24,7 +24,10 @@ If you see something you like in the issue threads, then please comment and let 
 Once the package is finished and published please link the new package in the thread and we will close it. 
 
 ## Commenting on package ideas
-Everyone who posts an open source package idea is coming from a good place so please treat everyone with respect. If the idea is something you do not think is useful just move on we do not want any negativity on issue threads, this is only to bring a positive impact to the open source community. 
+Everyone who posts an open source package idea is coming from a good place so please treat everyone with respect. If the idea is something you do not think is useful just move on we do not want any negativity on issue threads, this is only trying to bring a positive impact to the open source community. 
+
+### Issue solution already exists
+If you know the open source package idea already exists please comment and post the package which does what the issuer has describes. If it does we shall close that issue and this allows the developer who raised the issue to use that package to solve their problem.
 
 ## Support
 
