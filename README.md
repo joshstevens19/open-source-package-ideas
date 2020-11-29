@@ -5,6 +5,10 @@ This repo was purely created to help us all come together in one place to power 
 
 Please watch the repo for notifications of new open source package ideas.
 
+## Inspiration for the repo
+
+I love making open source packages but sometimes struggle for ideas which are useful. I thought something like this benefits everyone from people who want to code and make cool stuff, to new programmers we are struggling to solve a issue. 
+
 ## Suggesting new package ideas
 This repo is open to all programming languages please just tag the language you want the package to be in within your issue template. 
 
