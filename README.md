@@ -16,7 +16,7 @@ That’s it. People will comment to ask questions, and someone will take this pa
 Please note this is not a place to post code fixes it is not a stack overflow this is a place to discuss and create new amazing open source packages.
 
 ## Taking part in the new package ideas
-If you see something you like in the issue threads, then please comment and let people know you want to start working on this package. If there are a few of you interested, you can use this thread to sync a share a public package which you can split the work between you. 
+If you see something you like in the issue threads, then please comment and let people know you want to start working on this package. If there are a few of you interested, you can use this thread to sync and share a public repo which you can all work on. 
 Once the package is finished and published please link the new package in the thread and we will close it. 
 
 ## Commenting on package ideas
