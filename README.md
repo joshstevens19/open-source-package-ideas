@@ -10,10 +10,10 @@ Please watch the repo for notifications of new open source package ideas.
 I love making open source packages but sometimes struggle for ideas which are useful. I thought something like this benefits everyone from people who want to code and make cool stuff, to new programmers we are struggling to solve a issue. 
 
 ## Suggesting new package ideas
-This repo is open to all programming languages please just tag the language you want the package to be in within your issue template. 
+This repo is open to all programming languages please just write the language you want the package to be in within your issue template. 
 
 ### How to suggest a package idea
-1) Open a new issue
+1) Open a new issue [here](https://github.com/joshstevens19/open-source-package-ideas/issues/new?assignees=&labels=&template=open-source-package-request.md&title=)
 2) Fill out the issue template with as much detail as you can
 
 That’s it. People will comment to ask questions, and someone will take this package on. If that is a group of people or just one. 
